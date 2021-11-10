@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>my.groupId</groupId>
-    <artifactId>my-archetype-id</artifactId>
+    <artifactId>tq-archetype</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>maven-archetype</packaging>
 
