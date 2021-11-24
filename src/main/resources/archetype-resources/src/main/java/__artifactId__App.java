@@ -1,5 +1,5 @@
 package ${package};
-public class App {
+public class ${artifactId}App {
     public static void main(String[] args) {
 
     }
